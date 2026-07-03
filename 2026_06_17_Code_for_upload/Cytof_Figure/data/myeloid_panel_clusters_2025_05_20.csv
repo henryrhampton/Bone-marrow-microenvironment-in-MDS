@@ -1,0 +1,41 @@
+cluster,cell_type
+1,HSPCs
+2,HSPCs
+3,Aberrant_1
+9,Aberrant_2
+16,B_cell
+19,Monocytes
+32,Cytotoxic NK
+14,CD38_B_cell
+24,T_Cell
+30,T_Cell
+39,T_Cell
+15,CD47_low_progenitor
+20,CD47_low_progenitor
+25,Cytotoxic NK
+37,Cytotoxic NK
+11,CD56_Myeloid
+23,CD56_Myeloid
+33,Cytotoxic NK
+35,CD56_Myeloid
+38,Cytotoxic NK
+40,Cytokine NK
+17,CD66_pos_CD16_neg
+26,CD56_pos_T_Cell
+34,CD56_pos_T_Cell
+36,CD56_pos_T_Cell
+5,Monocytes
+6,Monocytes
+7,Monocytes
+8,Monocytes
+10,Monocytes
+13,Monocytes
+27,Myeloid
+4,Myeloid
+12,Myeloid
+18,Neutrophils
+21,Neutrophils
+22,Neutrophils
+28,Neutrophils
+29,Neutrophils
+31,Neutrophils

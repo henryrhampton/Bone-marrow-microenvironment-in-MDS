@@ -1,0 +1,41 @@
+,cluster,cell_type
+0,4,B cell
+1,23,Cytokine NK Cell
+2,24,Cytotoxic NK Cell
+3,28,Cytotoxic NK Cell
+4,33,Cytotoxic NK Cell
+5,34,Cytotoxic NK Cell
+6,35,Cytotoxic NK Cell
+7,14,Plasma cell
+8,10,CD4_T_cell
+9,13,Treg
+10,20,Treg
+11,39,Cytotoxic_CD4
+12,40,Cytotoxic_CD4
+13,5,CD56_Myeloid
+14,6,CD56_Myeloid
+15,12,CD8_T_cell
+16,27,CD8_T_cell
+17,30,Cytotoxic CD56+ CD8 T cell
+18,31,CD8_T_cell
+19,32,Cytotoxic CD8
+20,36,Cytotoxic CD8
+21,38,Cytotoxic CD8
+22,1,Monocytes
+23,2,Monocytes
+24,15,Monocytes
+25,3,HSPCs
+26,8,Immature myeloid
+27,7,Neutrophils
+28,9,Neutrophils
+29,11,Neutrophils
+30,16,Neutrophils
+31,17,Neutrophils
+32,21,Cytokine NK Cell
+33,22,Cytotoxic NK Cell
+34,29,Cytotoxic NK Cell
+35,37,Cytotoxic NK Cell
+36,18,CD56+ CD8 T cell
+37,19,Cytotoxic CD8
+38,25,Cytotoxic CD8
+39,26,Cytotoxic CD56+ CD8 T cell

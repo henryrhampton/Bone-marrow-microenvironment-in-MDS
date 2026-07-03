@@ -1,8 +1,28 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# Cursor
+.cursorignore
+.cursorindexingignore
 
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rds
+*.rds
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large data files
+*.fcs
+*.h5
+*.h5ad
+*.h5seurat
+
+# OS
+.DS_Store
+Thumbs.db
 # C extensions
 *.so
 
